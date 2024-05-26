@@ -8,6 +8,7 @@ body{
     font-family: "Poppins", sans-serif;
     background-color:#002379;
    color: #FF5F00;
+
  
 }
 
@@ -29,6 +30,8 @@ nav li {
 
 main{
    margin: 50px 200px;
+   border: 3px solid white;
+   padding: 20px;
    
 }
 
@@ -61,6 +64,7 @@ button{
   padding: 50px;
   color: #002379;
   margin-bottom: 50px;
+  border-radius: 5px;
 }
 
 
